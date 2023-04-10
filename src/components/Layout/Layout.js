@@ -5,7 +5,7 @@ import AppHeader from "../SecondaryComponents/AppHeader/AppHeader";
 const Layout = props => {
     return (
         <div id="site-layout">
-        <AppHeader />
+            <AppHeader />
         </div>
     )
 }
